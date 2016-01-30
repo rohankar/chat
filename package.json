@@ -1,0 +1,17 @@
+{
+  "name": "rohan",
+  "version": "1.0.0",
+  "description": "just a simple project for mvc architecture with node",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello world",
+    "start": "node server.js"
+  },
+  "author": "rohan",
+  "license": "ISC"
+}
